@@ -1,6 +1,6 @@
 # Autonomous-Navigation
 
-This repo consists of autonomous navigation and trajectory planning of a robot using Robot Operating System (ROS). A maze is created in gazebo for the robot to determine the best possible trajectory with collisonj avoidance. Probablistic localization method is used for navigation. Adaptive Monte Carlo Localization(AMCL) node and  slam_gmapping package is used for localization of robot and mapping of robot. Rviz interface is used for the simulation of robot and creating the cost map for the travel of robot.
+This repo consists of autonomous navigation and trajectory planning of a robot using Robot Operating System (ROS). A maze is created in gazebo for the robot to determine the best possible trajectory with collison avoidance. Probablistic localization method is used for navigation. Adaptive Monte Carlo Localization(AMCL) node and  slam_gmapping package is used for localization of robot and mapping of robot. Rviz interface is used for the simulation of robot and creating the cost map for the travel of robot.
 
 To perform the simulation, open the terminal and use the code:
 
